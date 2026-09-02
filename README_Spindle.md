@@ -133,3 +133,4 @@ Because SPINDLE is crafted as a self-contained, high-performance web application
 
 **Event:** HACKVERSE: INTO THE WEB  
 **Tagline:** *"One Web. Every Aspect of Your Everyday Life."*
+https://drive.google.com/file/d/17cjwX9UKxXzNIhShMaHoQAdEYUeLc-qk/view?usp=sharing
